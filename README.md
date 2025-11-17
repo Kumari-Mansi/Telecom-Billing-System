@@ -1,4 +1,6 @@
-*A Java + JDBC + SQLite based telecom billing prototype simulating real-world customer billing workflows.*
+# Telecom Billing System
+
+A Java + JDBC + SQLite based telecom billing prototype simulating real-world customer billing workflows.
 
 ---
 
@@ -193,7 +195,7 @@ Telecom-Billing-System/
 
 Below is a screenshot from the live running console showing customer creation and invoice listing:
 
-![Telecom Billing Demo](demo_screenshot.png)
+![Telecom Billing Demo](demo-screenshot.png)
 
 
 ### 1. Add customer
