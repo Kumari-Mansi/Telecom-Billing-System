@@ -195,7 +195,7 @@ Telecom-Billing-System/
 
 Below is a screenshot from the live running console showing customer creation and invoice listing:
 
-![Telecom Billing Demo](demo-screenshot.png)
+![Telecom Billing Demo](Demo-Screenshot.png)
 
 
 ### 1. Add customer
